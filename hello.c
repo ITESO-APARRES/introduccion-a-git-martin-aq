@@ -1,4 +1,7 @@
-//Comentario para actualizar hello.c desde GitHub
+/*
+ * Archivo hello.c que usamos para nuestro
+ * ejercicio de git basico
+*/
 
 #include <stdio.h>
 
